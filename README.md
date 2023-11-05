@@ -1,4 +1,4 @@
-# Python-ORM-2023
+# SoftUni-Python-ORM-2023
 
 # Helpers
 
