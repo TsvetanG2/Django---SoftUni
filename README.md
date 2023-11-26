@@ -420,4 +420,11 @@ author_posts = author.post_set.all()
     - Lazy Relationships - обекта от релацията се взима, чрез заявка, чак когато бъде повикан
 
 
+# Softuni-ORM(Object–relational mapping)
+Fundamentals: Solid understanding of PostgreSQL architecture, installation, and configuration. Database Design: Designing efficient and normalized databases to ensure optimal performance and data integrity. SQL Mastery: SQL queries, from basic SELECT complex statements
+# Certificates:
+
+<img align = "center" width = "45%" height = "35%" src="">
+
+
 
